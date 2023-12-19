@@ -1,5 +1,3 @@
-# Professional Profile Readme
-
 <!-- Add a banner here -->
 ![Banner](banner.png)
 <!-- End of banner -->
