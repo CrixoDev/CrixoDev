@@ -1,205 +1,70 @@
-# Introduction
-<br><br>
+# Professional Profile Readme
+
+<!-- Add a banner here -->
+![Banner](banner.png)
+<!-- End of banner -->
 
 
-# Timeline
-* High School (Computer Technician)
-* Computer Science degree (not completed)
-* La Picassa SA (2 years)
-    - Linux and Windows Administration
-    - Database Administration and querying
-    - Technician problems solutions
-    - Changing hardware on a explosion-proof enclosure
+## 🌟 Introduction
+Greetings! I'm a dedicated professional in the realm of computer science, seamlessly integrating technical prowess with a collaborative spirit, inventive problem-solving, and effective leadership.
 
-* Other works
-    - Change operating systems
-    - Removing virus, spywares and malwares
-    - Assembly of custom computers
-    - Installing security cams
-    - Software installation (in general)
-    - Windows optimization
-    - Solving problems and programming web pages
-    - Sale of 3D printed objects
-    - 3D part design
+## 🎯 Aspirations
+I am on the lookout for a role that challenges me, offering a flexible schedule and a competitive salary. My ultimate ambition is to lead a dynamic team of developers while continuously advancing my personal and professional growth.
 
-# Languages
-* Español
-* English
-* Java
-* JavaScript
-    * Typescript
-* Python
-* PHP
-* Pascal
-* Haskell
-* Excel (VB)
-* SQL
+## 💼 Work Experience
+- **👩‍🏫 IT Teacher and Technology Coordinator | Schools in Río Negro**
+  - 🖥️ Installation of educational software and technical problem resolution.
+  - 🚀 Implementation of technological strategies for organizational efficiency.
+  - 🧐 Evaluation and selection of software/hardware, advising on technology adoption.
+  - 🌐 Administration of IT systems, networks, and servers with security measures.
+  - 🤝 Project management, collaboration with other departments, and employee training.
 
+- **👨‍🏫 Computer Science Teacher | Schools in Río Negro**
+  - 🚀 Teaching basic informatics and technology skills, lesson planning, and material development.
+  - 📊 Evaluation of student performance, adaptation of teaching to meet educational needs.
+  - 🧠 Encouragement of critical thinking, promotion of ethics in technology use.
+  - 🛤️ Career guidance, collaboration on curriculum development, and community outreach.
 
-# JAVA
-* JAVA in general
-    * Data types (and wrappers), variables, casting
-    * String operations
-    * Inputs, buffers, streams and files I/O
-    * Lists and other common libraries
-    * Control statements: If-else, switch
-    * Loops: for, while, do-while (break and continue)
-    * Recursion
-    * Object Oriented Programming
-        * Classes Contructors with attributes and methods (static and instance), Inheritance
-        * Overloading and overriding methods
-        * Encapsulation
-        * Polymorphism
-    * Interfaces, Inner and Abstracts Classes
-    * Java Collections
-    * Data structures
-    * Generics
-    * Static, dinamic context
-    * Exception handling
-    * JavaFX
-    * Concurrency: Threads and Thread Management
-    * Lambda functions
-    * JDBC
-    * Maven
+- **🎨 3D Design, Printing, and Sales | Independent | 2016 - 2021**
+  - ✏️ 3D model design, printing, and sales, including customer interaction and business development.
+  - 📲 Social media and digital advertising for model promotion.
+  - 🚀 Research and adoption of new technologies in 3D design and printing.
 
-* JAVA EE
-    * Enterprise Java Beans (EJB)
-    * Servlets
-    * Java Server Pages (JSP) -> (Expression Language)
-    * Java Server Faces (JSF)
-    * Java Persistence Query Language (JPQL)    
-    * Java Persistence API (JPA)
-    * AJAX and PrimeFaces in JSF
-    * JAX-WS: Java API for XML Web Services
-    * JAX-RS: Java API for RESTful Web Services
-    * Plain old Java object (POJO)
-    * Hibernate 
-        * Hibernate and JPA basic operations, associations, lifecycle
-        * Cascading Persistence
-        * HQL (Hibernate Query Language)
-        * Criteria API
-  
-* Struts 2
-    * Conventions, actions, messages, results, annotations, validations, tiles
+- **🔧 System Administrator | La Picassa S.A. Cipolletti | 2014 - 2016**
+  - 💽 Database administration, closed-circuit camera system management, server administration.
+  - 🔒 Implementation of security measures, backup planning, and user management.
+  - 📄 Documentation of IT infrastructure and collaboration with departments and service providers.
 
-* ORM - Object Relational Mapping
-* AspectJ AOP (Eclipse)
+- **🛠️ Computer Technician | Independent | 2011 - Present**
+  - 💻 Installation, maintenance, and support of computer systems.
+  - 🔐 Implementation of security measures, data backup, and recovery.
+  - 🎓 User training, network configuration, and hardware/software problem resolution.
 
 
-# Spring
-* Spring Boot
-* Spring Data, Hibernate and JPA
-    * Services, CRUD operations, validations
-* Thymeleaf
-* Internationalization (i18n)
-* Spring Framework (Core)
-* Spring MVC
-* Spring REST
-* Spring Security
-    * Bcrypt
-* Spring AOP
+## 🚀 Key Skills
+- **Languages:** Spanish, English, Java, JavaScript, Python, PHP, Pascal, Haskell, Excel (VB)
+- **Java Expertise:**
+  - Core Java concepts
+  - Object-Oriented Programming
+  - Java EE (EJB, Servlets, JSP, JSF)
+  - Spring Framework (Boot, Data, MVC, REST, Security)
+  - Additional skills in HTML, CSS, jQuery, Node.js, and MEAN STACK
+- **Tools:** NPM, Docker, Illustrator, VSCode
+- **Operating Systems:** Windows, Linux (Ubuntu, Kali)
+- **Databases:** SQL (MySQL, PostgreSQL, SQLServer), NoSQL (MongoDB)
 
-# Other Skills 
-* HTML
-* CSS
-    * Flexbox
-* Jquery
-* Node.js
-* Socket . io
-* APIs RESTful with NodeJS, Express y MongoDB
-* MEAN STACK
-* GIT (I don't use it as much as I should)
+## 🌐 Professional Attributes
+- 🤝 Team player with strong empathy
+- 💡 Effective problem solver and creative thinker
+- 🎤 Demonstrated leadership and charisma
+- 🧠 Critical thinking in decision-making
 
-# Tools
-* NPM
-* Docker
-* OpenStreetMap
-* Illustrator
-* SVGs
-* VSCode / SublimeText / Notepad++
-* Others
+## 🏆 Achievements
+- Successful completion of diverse projects, including software development, hardware maintenance, and 3D design.
+- Proficient in deploying applications on platforms such as Heroku, Hostinger, and MongoDBCloud.
 
-# Operating Systems
-* Windows
-* Linux - Ubuntu
-* Linux - Kali
-
-# Databases
-* ORMs
-* Transactions with ACID
-
-## SQL
-* MySql
-* Postgres
-* SQLServer
-
-## NoSQL
-* MongoDB
-
-# Deploy
-* Heroku
-* Hostinger
-* MongoDBCloud
-* Others
-
-# Web Server
-* Glassfish
-* Tomcat
-* Apache
-
-# Things about my personality that i consider important
-
-* Teamwork
-* Empathy
-* Problem resolution
-* Creative
-* Leadership
-* Charismatic
-* Critical thinking
-* Proactive
-
-# Diagrams
-* Functional Requirements
-* Use Case
-* Sequence
-* Flowcharts
-* UML
-* Class
-* Entity Relationship
-
-# I Search for
-* Flexible schedule
-* Good salary
-* I hope one day to lead a group of developers
-* Keep training and growing
+## 🌈 Motto
+_"Estamos a merced de fuerzas que desconocemos, la digitalización del dinero, la automatización del trabajo, el cambio climático, la pandemia me sirvió para abrir los ojos y descubrir que debemos confiar en la cooperación de pares, apelar a la empatía humana, a la bondad de nuestros corazones. Es el deber de la ciencia lograr cambios en la sociedad, pero es nuestro deber primero reestructurarnos a tiempo de una manera pragmática y así poder aplicar estos cambios en la sociedad, esto es de extrema importancia para estos momentos tan vertiginosos."_
 
 😷👨‍💻🕵👣🕊☕🍻🧉🌍🌎🌏🕒🌟🌌🌠
 ✨📬📈🔐🔰☮♾‼⁉❓⚖👌 🙌🧑‍🤝‍🧑💗
-<br>
-> _"Estamos a merced de fuerzas que desconocemos,
-la digitalización del dinero, la automatización del trabajo, el cambio climático, la pandemia me sirvio para abrir los ojos y descubrir que
-debemos confiar en la cooperación de pares, apelar a la empatia humana, a la bondad de nuestros corazones. Es el deber de la ciencia lograr cambios en la sociedad, pero es nuestro deber primero reestructurarnos a tiempo de una manera pragmatica y así poder aplicar estos cambios en la sociedad, esto es de extrema importancia para estos momentos tan vertiginosos"_
-
-## Somethings (?
-- Piano - https://affectionate-bardeen-ce373f.netlify.app/
-- To do list (lista de tareas) - https://pedantic-carson-dd73f4.netlify.app/
-- Indice de masa corporal - https://gallant-meninsky-ec7721.netlify.app/
-- Convertidor - https://distracted-albattani-d32ad3.netlify.app/
-- Dados - https://naughty-kirch-51844e.netlify.app/
-- Administración de empleados - https://angry-cray-fbfd5b.netlify.app/
-- Probando angular material - https://wonderful-joliot-b2ca34.netlify.app/
-
-<!--
-**CrixoDev/CrixoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
