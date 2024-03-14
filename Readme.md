@@ -4,9 +4,11 @@
 
 # 🌟 Introduction
 Greetings! I'm a dedicated professional in the realm of computer science, seamlessly integrating technical prowess with a collaborative spirit, inventive problem-solving, and effective leadership.
+[See My Portfolio](https://portfolionicko.netlify.app/)
 
 # 🎯 Aspirations
 I am on the lookout for a role that challenges me, offering a flexible schedule and a competitive salary. My ultimate ambition is to lead a dynamic team of developers while continuously advancing my personal and professional growth.
+
 
 # 🎓 Education
 
