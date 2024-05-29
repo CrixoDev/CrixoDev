@@ -1,7 +1,3 @@
-<!-- Add a banner here -->
-![Banner](banner.png)
-<!-- End of banner -->
-
 # 🌟 Introduction
 Greetings! I'm a dedicated professional in the realm of computer science, seamlessly integrating technical prowess with a collaborative spirit, inventive problem-solving, and effective leadership.
 [See My Portfolio](https://portfolionicko.netlify.app/)
